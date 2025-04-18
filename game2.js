@@ -1,7 +1,6 @@
 var SITE_XTHOST = "https://wormateup.live";
 window.detectLog = null;
 
-
 const _wormup = {
   'BETAisSkinCustom'(_0x5570dd) {
     var _0x5a26f0 = /[a-zA-Z]/;

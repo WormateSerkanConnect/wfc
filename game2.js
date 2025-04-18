@@ -1441,7 +1441,7 @@ window['addEventListener'](_0x1e228d(0x51b), function () {
             _0x191ef1 = _0x3b0090(0x4a8),
             _0x273198 = 'https://resources.wormate.io',
             _0x409b3e = window[_0x3b0090(0x221)];
-        _0x409b3e || = 'en';
+        _0x409b3e ??= 'en';
         var _0x5c492d = undefined;
         switch (_0x409b3e) {
         case 'uk':

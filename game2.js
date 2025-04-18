@@ -7368,7 +7368,7 @@ window['addEventListener'](_0x1e228d(0x51b), function () {
                 'qk': ![]
             };
         var _0x14dea3 = _0x2de32c[window['ENV']];
-        _0x14dea3 || = _0x2de32c[_0x3b0090(0x482)],
+        _0x14dea3 = _0x14dea3 || _0x2de32c[_0x3b0090(0x482)],
             $(function () {
                 var _0x5b8809 = _0x3b0090;
                 FastClick[_0x5b8809(0x42c)](document[_0x5b8809(0xb1)]);
